@@ -12,7 +12,7 @@
 				</p>
 
 				<div class="mail-action">
-					<a href="mailto:contact@pdscompany.com" class="submit-btn">Email Us Directly</a>
+					<a href="mailto:pdscompany@gmail.com" class="submit-btn">Email Us Directly</a>
 				</div>
 			</div>
 		</div>
