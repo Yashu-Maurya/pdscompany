@@ -12,8 +12,8 @@ return {
 	_: {
 		client: {start:"_app/immutable/entry/start.gneg2Q6j.js",app:"_app/immutable/entry/app.B5RsqVD_.js",imports:["_app/immutable/entry/start.gneg2Q6j.js","_app/immutable/chunks/DScqOKNx.js","_app/immutable/chunks/BukE7bu8.js","_app/immutable/entry/app.B5RsqVD_.js","_app/immutable/chunks/BukE7bu8.js","_app/immutable/chunks/C98UqQxh.js"],stylesheets:[],fonts:[],uses_env_dynamic_public:false},
 		nodes: [
-			__memo(() => import('./nodes/0.js')),
-			__memo(() => import('./nodes/1.js'))
+			__memo(() => import('../output/server/nodes/0.js')),
+			__memo(() => import('../output/server/nodes/1.js'))
 		],
 		remotes: {
 			
