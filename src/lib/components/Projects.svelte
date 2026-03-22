@@ -6,8 +6,8 @@
 	let cards = [];
 
 	const works = [
-		{ title: 'Water Tank', desc: 'Barabanki Area', img: '/images/water-tank.png' },
-		{ title: 'Water Pipeline', desc: 'Sultanpur Village', img: '/images/water-pipeline.png' }
+		{ title: 'Water Tank', desc: 'Sultanpur Water Tank Project', img: '/images/water-tank.png' },
+		{ title: 'Water Pipeline', desc: 'Barabanki Area Water Pipeline Project', img: '/images/water-pipeline.png' }
 	];
 
 	onMount(() => {
