@@ -21,7 +21,7 @@
 	});
 </script>
 
-<section class="projects">
+<section id="projects" class="projects">
 	<div class="container">
 		<h2>Projects & Works</h2>
 		<div class="grid">

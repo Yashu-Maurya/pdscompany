@@ -1,7 +1,3 @@
-<script>
-	import Map from '$lib/components/Map.svelte';
-</script>
-
 <section class="contact">
 	<div class="container">
 		<div class="contact-grid">
@@ -26,9 +22,6 @@
 						</p>
 					</div>
 				</div>
-			</div>
-			<div class="map-wrap">
-				<Map />
 			</div>
 		</div>
 	</div>
@@ -72,12 +65,5 @@
 
 	.item p {
 		font-size: 1.2rem;
-	}
-
-	.map-wrap {
-		border: var(--brutal-border);
-		border-color: var(--color-bg);
-		box-shadow: 8px 8px 0px var(--color-bg);
-		background-color: var(--color-bg);
 	}
 </style>
